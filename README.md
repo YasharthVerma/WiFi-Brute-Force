@@ -4,7 +4,7 @@ This project is based upon the trick that, how to hack WI-FI with CMD. The main 
 ![](https://i1.wp.com/www.thebateam.org/wp-content/uploads/2020/04/WifiBruteForcer_intro.gif?fit=718%2C561&ssl=1)
 
 ## Before you begin the software 
-[!] Remember to unzip the 'passlist' folder and place the passlist on the followed location 'etc\WiFi-Brute-Forcer\Source Code\BF_Files'
+[!] Remember to unzip the 'passlist' folder and place the passlist on the followed location 'etc\WiFi-Brute-Forcer\Source Code\BF_Files'.
 
 # ABOUT PASSWORD CRACKING WITH CMD
 Some of you may know the concept of **Brute Forcing**, but I will explain it for the ones who don’t know. In case, you are already familiar with it – you are free to skip this part (although, you will definitely learn something new from it).
