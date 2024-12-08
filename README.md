@@ -1,6 +1,5 @@
 # WiFi-Brute-Force
 This project is based upon the trick that, how to hack WI-FI with CMD. The main purpose behind, creating wifi hacking tool with cmd tool is to make everyone aware that how easy it is to break a simple password. And, motivate them to keep some complex passwords– to keep them protected against it. It was originaly made by TheBATeam but updated and edited by YasharthVerma
-# Batch-WI-FI-Brute-Forcer
 
 ![](https://i1.wp.com/www.thebateam.org/wp-content/uploads/2020/04/WifiBruteForcer_intro.gif?fit=718%2C561&ssl=1)
 
