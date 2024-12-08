@@ -1,0 +1,43 @@
+
+	[The WI-FI Brute Forcer With 14 million Passlist]
+
+	- Thanks to TheBATeam for the CODE.
+	- The passlist was updated by Yasharth.
+
+
+
+	Help Page
+
+	- help             : Prints this page
+	- wifiscan         : Performs a WI-FI scan
+	- interface	   : Select an interface for attack
+	- attack           : Attacks on selected WI-FI
+
+
+	[About Brute Forcer]
+	
+	- This program performs an "Online Attack" to the target WI-FI.
+	- It's speed depends on your hardware.
+	- Not % 100 accurate because of it's a brute force attack.
+	- A big password file not included, you can create it with "keycombinator.cmd" or
+	you can download from internet and rename it "passlist.txt" and paste it inside "BF_Files"
+	- Your attack results are being written to "WIFI_Report.txt" inside "BF_Files"
+	- Please, do not touch other files, it may cause malfunction!
+	- "keycombinator.cmd" creates a list inside BF_Files with the name "passlist_raw.txt".
+	You have to rename it to "passlist.txt"
+
+	[Unsupported Char]
+
+	- This means target SSID includes unsuported character by Command Prompt
+	- To prevent program to malfunction, those SSIDs are banned.
+
+
+	[Deleting Profile]
+
+	- If you are trying to attack a network which you have already connected a network
+	with the same name before, program deletes your previous profile.
+	
+	[!] Warning -> Your previous password will be deleted of your previos profile.
+	[!] Disclaimer -> The creator/devloper/updater of this project is not responsible for the actions done by the user.
+
+	
